@@ -1,4 +1,4 @@
-```
+```java
 class Greeter {
 
     String getGreeting() {
