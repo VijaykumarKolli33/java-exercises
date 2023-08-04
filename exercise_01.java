@@ -1,4 +1,4 @@
-```
+
 class Greeter {
 
     String getGreeting() {
@@ -7,4 +7,3 @@ class Greeter {
 
 }
 
-```
